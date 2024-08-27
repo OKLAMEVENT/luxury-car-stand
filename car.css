@@ -1,0 +1,77 @@
+.container-fluid{
+    background-color: #feda75;
+}
+.carousel, p{
+    font-size: 20px;
+    color: rgb(240, 245, 245);
+}
+.carousel, h1{
+    color: #ecedef;
+    font-family: fantasy;
+}
+.nav-link{
+    color: black;
+}
+.d-block{
+    height: 600px;
+}
+.phantom{
+    /* position: relative; */
+    /* margin-top: 300px; */
+}
+.check{
+    margin-left: -70px;
+    background-color: #feda75;
+    width: 130%;
+}
+.phantom1, .phantom2{
+    margin-left: 500px;
+}
+.main-container{
+    display: flex;
+}
+.container2{
+    display: flex;
+}
+.float1, .float2, .float3, .float4, .float5, .float5, .float6{
+    margin: 10px 10px;
+}
+.nav-item1, .nav-item2, .nav-item3, .nav-item4, .nav-item5, .nav-item6{
+    margin-left: 200px;
+    border-color: #feda75;
+}
+.ddiv{
+    display: flex;
+}
+body{
+    background-color: black;
+}
+.copyright{
+    width: 30px;
+    height: 30px;
+}
+.whatsapp{
+    width: 30px;
+    height: 30px;
+}
+.facebook{
+    width: 30px;
+    height: 30px;
+}
+.insta{
+    width: 30px;
+    height: 30px;
+}
+.more{
+    position: relative;
+    left: 100px;
+}
+.overlay::before{
+    background-color: #0000008c;
+    width: 100vw;
+    height: 600px;
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+}

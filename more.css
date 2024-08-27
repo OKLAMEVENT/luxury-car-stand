@@ -1,0 +1,33 @@
+.i, .ii, .iii{
+    width: 200px;
+    height: 300px;
+}
+.i-div{
+    display: flex;
+}
+.writing{
+    width: 700px;
+    height: 100px;
+    margin-left: 300px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    /* background-color: rgb(42, 48, 46); */
+    color: aliceblue;
+} 
+.vid{
+    height: 400px;
+    width: 700px;
+}
+.ii-div{
+    display: block;
+}
+body{
+    background-color: rgb(84, 60, 60);
+}
+.div-iii{
+    display: flex;
+    margin-top: 320px;
+}
+.div-iv{
+    display: flex;
+}
